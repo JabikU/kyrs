@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import { Carousel, Container, Row, Col, Card } from 'react-bootstrap';
-import hinnn from '../hinn.jpg';
+
 
 
 export default class Blog extends Component {

@@ -82,7 +82,7 @@ export default class Blog extends Component {
                 <Card>
                   <Card.Img variant="top" src="https://images.radario.ru/images/afficheevent/cd68aae0fee144e5b5cb39987e621082.jpg" />
                   <CardBody>
-                    <Link to="/gallery">Купить билет</Link> 
+                    <Link to="/catalog">Купить билет</Link> 
                   </CardBody>
                 </Card>
               </Col>
@@ -91,7 +91,7 @@ export default class Blog extends Component {
                 <Card>
                   <Card.Img variant="top" src="https://sun9-18.userapi.com/impf/c855136/v855136400/150778/DzF8z5H6HKM.jpg?size=604x403&quality=96&sign=3133a40beb80c517f22f07c6dcc940fb&type=album" />
                   <CardBody>
-                    <Link to="/gallery">Купить билет</Link> 
+                    <Link to="/catalog">Купить билет</Link> 
                   </CardBody>
                 </Card>
               </Col>
@@ -100,7 +100,7 @@ export default class Blog extends Component {
                 <Card>
                   <Card.Img variant="top" src="https://sun9-20.userapi.com/impg/AC2XfyLc7Zsg1VakjHCwpnWped_pvpEN0XszCg/JKgSsu90wZg.jpg?size=1920x1080&quality=95&sign=d5dd1d4f3cfc0e1a99db53f173387a3d&c_uniq_tag=2l91vGOqj0gTdUC6SWezXN-vGmJDObYpn2DF65bYkhc&type=album" />
                   <CardBody>
-                    <Link to="/gallery">Купить билет</Link> 
+                    <Link to="/catalog">Купить билет</Link> 
                   </CardBody>
                 </Card>
               </Col>
@@ -108,7 +108,7 @@ export default class Blog extends Component {
                 <Card>
                   <Card.Img variant="top" src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_659dac1d89c0fd69095f5909_659dac48865a591d8bc9b667/scale_1200" />
                   <CardBody>
-                    <Link to="/gallery">Купить билет</Link> 
+                    <Link to="/catalog">Купить билет</Link> 
                   </CardBody>
                 </Card>
               </Col>

@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(172, 18, 118);
+  background-color: rgb(190, 174, 184);
 }
 
 .navbar {
@@ -12,7 +12,7 @@ body {
 }
 
 .navbar:hover {
-  background-color: #ff00ff; /* Розово-фиолетовый цвет */
+  background-color: #c4c0c4; 
 }
 
 .photo-block {
@@ -29,7 +29,7 @@ body {
 }
 
 .main-container {
-    background-color: rgb(172, 18, 118);
+    background-color: rgb(190, 174, 184);
     padding: 20px;
     color: white;
 }
